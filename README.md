@@ -14,4 +14,4 @@ In theory, any car manufactured since 1996 should work. However, your mileage ma
 ### Incompatible
 - Acura
   - MDX
-    - 2014 (Technology package tested, plugging the device in immediately causes the vehicle to throw error codes for LDW and FCW)
+    - 2014 (Technology package tested, plugging the device in immediately causes the vehicle to throw error codes for LDW and FCW. 2015 is also most likely affected. The Advance model likely suffers from similar issues, but the base model is most likely fine. May also occur on similar model year RDX, ILX, RLX, and TLX)
